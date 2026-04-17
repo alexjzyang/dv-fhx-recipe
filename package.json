@@ -1,0 +1,21 @@
+{
+  "name": "dv-fhx-recipe",
+  "version": "1.0.0",
+  "description": "This project aims to work with DeltaV's recipe and their parameters across different levels. Procedure, Unit Procedure and Operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexjzyang/dv-fhx-recipe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexjzyang/dv-fhx-recipe/issues"
+  },
+  "homepage": "https://github.com/alexjzyang/dv-fhx-recipe#readme"
+}
