@@ -1,0 +1,2 @@
+- In order not to install additional submodule, the parser files are not connected with the WIP parser lib.
+- This fhx parser files stored in this lib-fhxparser folder are not tracked. No changes should be made to these files.

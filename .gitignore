@@ -1,2 +1,5 @@
 *.fhx
 *.txt
+
+src/lib-fhxparser/FhxUtil.js
+src/lib-fhxparser/FileIO.js
